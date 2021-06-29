@@ -1,4 +1,4 @@
-UFO
+# UFO Analysis
 
 ## Overview
 
@@ -8,7 +8,7 @@ The purpose of this analysis is to create a web page that holds data of UFO sigh
 
 ![Screen Shot 2021-06-28 at 11 17 51 PM](https://user-images.githubusercontent.com/81889167/123731922-1d50d580-d867-11eb-9c6a-6c145f4f6f33.png)
 
-The first thing that a user sees when accessing the webpage is the title and background image. Then there is the paragraph that explains the goal of the page. Below that, there is a table that holds the data of UFO sightings. On the left hand side of the page there is a table where users can enter filters to see specific information on sigtings. The data can be filterd by date, city, state, country, shape of object seen, duration of sighting and comments. 
+The first thing that a user sees when accessing the webpage is the title and background image. Then there is the paragraph that explains the goal of the page. Below that, there is a table that holds the data of UFO sightings. On the left hand side of the page there is a table where users can enter filters to see specific information on sightings. The data can be filterd by date, city, state, country, shape of object seen, duration of sighting and comments. 
 
 The image below shows a search for shape of object. When the "filter table" button is clicked, the data is refined and the page 
 displays sightings where the object seen is described as a triangle. 
